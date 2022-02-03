@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDdd/FWCuPzPpKXcquD3DdIkcwBo2OQRFjFsGgd1NovwB/gAEZ6zAUoHGVJZJACbry4JozaDWfWjfBNeoLebJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\garimella.rao\\source\\repos\\Pokedex\\Pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\garimella.rao\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\garimella.rao\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\garimella.rao\\.nuget\\packages\\restsharp\\107.1.2\\restsharp.107.1.2.nupkg.sha512",
+    "C:\\Users\\garimella.rao\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

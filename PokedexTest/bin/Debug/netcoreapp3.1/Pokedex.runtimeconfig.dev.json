@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\garimella.rao\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\garimella.rao\\.nuget\\packages"
+    ]
+  }
+}
