@@ -1,8 +1,8 @@
 # poekdex
-Some of the changes i will bring for production would be adding authentication and authorisation to our api ,configure it to use https also will try to pool the restclient / httpclient so that we don't need to create the instances again
+**Some of the changes i will bring for production would be adding authentication and authorisation to our api ,configure it to use https also will try to pool the restclient / httpclient so that we don't need to create the instances again**
 
 
-in order to run the project first clone the repo then go to the pokedex folder 
+In order to run the project first clone the repo then go to the pokedex folder 
 
 run the following command
 dotnet restore
@@ -22,7 +22,7 @@ similarly for the translated version
 http://localhost:5000/pokemon/translated/ditto
 
 
-running it using docker 
+**running it using docker **
 ensure you have docker installed on your system
 
 go to pokedex folder
